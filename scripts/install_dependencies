@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo yum install mariadb-server* -y
 sudo yum install python3 -y
-sudo yum install python3-flask
+sudo yum install python3-flask -y
 sudo yum install  python3-PyMySQL -y
 sudo yum install python3-boto3 -y 
