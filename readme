@@ -1,13 +1,13 @@
-sudo apt-get update
+sudo yum update -y
 # For Sql-client
-sudo apt-get install mysql-client
+sudo yum install mariadb-server* -y
 
 # For python and related frameworks
 
-sudo apt-get install python3
-sudo apt-get install python3-flask
-sudo apt-get install python3-pymysql
-sudo apt-get install python3-boto3
+sudo yum install python3 -y
+sudo yum install python3-flask -y
+sudo yum install python3-pyMySql
+sudo yum install python3-boto3 -y
 
 # for running application
 sudo python3 Empapp.py
