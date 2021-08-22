@@ -1,4 +1,4 @@
-customhost = "employee.coghw13fheqo.us-east-2.rds.amazonaws.com"
+customhost = "database-1.c6ubmgt3mt6j.ap-south-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "admindatabase"
 customdb = "employee"
